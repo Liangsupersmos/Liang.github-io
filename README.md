@@ -11,15 +11,15 @@
 	  background-color: darkred;
 	}
     </style>
-	<link rel="icon" type="image/x-icon" href="C:\Users\USER\OneDrive\Desktop\Project\CoST.jpg"
+	<link rel="icon" type="image/x-icon" href="CoST.jpg"
   </head>
   <body >
-  <marquee><img src="C:\Users\USER\OneDrive\Desktop\Project\CoSTll.jpg" width="70px" height="35px" alt="W3docs" />
+  <marquee><img src="CoSTll.jpg" width="70px" height="35px" alt="W3docs" />
     សូមស្វាគមន៏មកកាន់!! IT Women in College Science and Technology!
        </marquee>
-	   <img src="C:\Users\USER\OneDrive\Desktop\Project\Students.jpg" width="300" height="200">
-<img src="C:\Users\USER\OneDrive\Desktop\Project\labs3.jpg" width="300" height="200">
-<img src="C:\Users\USER\OneDrive\Desktop\Project\labs2.jpg" width="300" height="200"><br>
+	   <img src="Students.jpg" width="300" height="200">
+<img src="labs3.jpg" width="300" height="200">
+<img src="labs2.jpg" width="300" height="200"><br>
 សូមស្វាគមន៏មកកាន់មហាវិទ្យាល័យ​​​​​វិទ្យា​សាស្រ្ដ​ និងបច្ចេកវិទ្យានៃសកលវិទ្យាល័យក​​ម្ពុជា។​ សម្រាប់ប្អូនៗសិស្សានុសិស្ស ដែលមានបំណងចង់បន្តការសិក្សាថ្នាក់បរិញ្ញាប័ត្ររង និងថ្នាក់បរិញ្ញាប័ត្រ។ សូមចុះឈ្មោះជាមួយយើងឥលូវនេះឬលោក​​​អ្នកអាច​អញ្ជើញ​​​មកកាន់សកលវិទ្យាល័យផ្ទាល់ក៏បាន។<br>
 Welcome to College of Science and Technology of The University of Cambodia. For everyone who wishes to pursue fo any AA and BA degrees of the study program. please register now or visit the campus of The University of Cambodia.
 Major Offering in College of Science and Technology.
@@ -79,10 +79,10 @@ table#t01 th  {
   </tr>
 </table>
 <h1 style="background-color: darkred; text-shadow: 4px 3px 7px black; color: white; font-size:30px; font-family:Gill Sans MT;">College of Science and Technology computer labs</h1>
-<img src="C:\Users\USER\OneDrive\Desktop\Project\computer4.jpg" width="300" height="200">
-<img src="C:\Users\USER\OneDrive\Desktop\Project\computer3.jpg" width="300" height="200">
-<img src="C:\Users\USER\OneDrive\Desktop\Project\computer 2.jpg" width="300" height="200">
-<img src="C:\Users\USER\OneDrive\Desktop\Project\computer.jpg" width="300" height="200"><br>
+<img src="computer4.jpg" width="300" height="200">
+<img src="computer3.jpg" width="300" height="200">
+<img src="computer 2.jpg" width="300" height="200">
+<img src="computer.jpg" width="300" height="200"><br>
 <h1 style="border: 4px solid darkred; text-shadow: 4px 3px 7px black; color: white; font-size:25px; font-family: Gill-san MT; text-align:center;">Computer Labs of The University of Cambodia.</h1>
 <table id="t02">
 <tr>
